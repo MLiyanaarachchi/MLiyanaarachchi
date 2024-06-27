@@ -5,9 +5,10 @@
 
 - 🔭 I’m currently working on **Capstone project**
 
-- 🌱 I’m currently learning **Flutter ,UI/UX**
+- 🌱 I’m currently learning **Flutter ,UI/UX**,HTML,CSS,PHP
 
 - 📫 How to reach me **maheshaliyanaarachchi535@gmail.com**
+   -my blog  go through  **https://mtechyguru.blogspot.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
